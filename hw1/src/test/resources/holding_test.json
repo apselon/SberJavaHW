@@ -1,0 +1,6 @@
+{
+   "name": "ООО Матрешка holding",
+   "inn": 13242352,
+   "holding_parts": ["First", "Second", "Third"],
+   "clientType": "LEGAL_ENTITY"
+}
